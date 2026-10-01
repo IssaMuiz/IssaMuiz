@@ -48,3 +48,29 @@ I focus on building practical AI-powered business systems, including:
 * Docker
 * CI/CD
 * API Integration
+
+## Selected Projects
+
+### 🐔 Poultry Flock Health Triage System
+
+A deep learning-powered computer vision application that classifies poultry droppings as healthy or unhealthy and provides a practical health-triage interface.
+
+**Built with:** Python, PyTorch, CNNs, Streamlit
+
+### 📚 Insight Generator
+
+An AI knowledge-extraction system designed to analyse books and transform their content into structured, actionable insights.
+
+**Built with:** Python, PyMuPDF, NLP, GitHub Actions, automated testing
+
+### 🎬 Sentiment Analysis API
+
+An end-to-end NLP system that classifies text sentiment and exposes the trained machine-learning pipeline through an API.
+
+**Built with:** Python, scikit-learn, TF-IDF, FastAPI, Docker
+
+### 📦 Inventory Intelligence
+
+A data-driven system focused on analysing inventory and retail data to generate useful business insights.
+
+**Built with:** Python, data analysis, SQL, machine learning
