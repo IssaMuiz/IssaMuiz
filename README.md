@@ -74,3 +74,18 @@ An end-to-end NLP system that classifies text sentiment and exposes the trained 
 A data-driven system focused on analysing inventory and retail data to generate useful business insights.
 
 **Built with:** Python, data analysis, SQL, machine learning
+
+
+## Current Focus
+
+I'm currently focused on building and improving AI-powered business automation systems.
+
+My current areas of development include:
+
+* Designing reliable AI automation workflows
+* Connecting AI models with business applications and databases
+* Building customer support and lead management systems
+* Working with APIs, webhooks and third-party integrations
+* Building secure and maintainable backend workflows
+* Developing practical low-code and AI-powered applications
+* Improving software engineering, testing and deployment practices
