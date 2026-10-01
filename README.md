@@ -89,3 +89,14 @@ My current areas of development include:
 * Building secure and maintainable backend workflows
 * Developing practical low-code and AI-powered applications
 * Improving software engineering, testing and deployment practices
+
+## Let's Connect
+
+I'm interested in building practical AI-powered systems that solve real business problems.
+
+If you're working on a business process that could be improved through AI or automation, feel free to reach out.
+
+📧 **Email:** [issamuiz@gmail.com](mailto:issamuiz01@gmail.com)
+
+🔗 **LinkedIn:** [Issa Muiz](https://www.linkedin.com/in/issa-muiz/)
+
