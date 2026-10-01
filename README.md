@@ -13,3 +13,38 @@ I focus on building practical AI-powered business systems, including:
 * **AI Document Processing** — extract, structure and process information from business documents.
 * **Business Process Automation** — transform repetitive manual workflows into connected automated systems.
 * **AI Applications** — build user-facing applications that combine AI models, business logic, data and automation.
+
+## Technical Stack
+
+### AI & Machine Learning
+
+* Python
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Generative AI
+* AI APIs
+
+### Automation & Backend
+
+* n8n
+* REST APIs
+* Webhooks
+* JSON
+* Supabase
+* SQL
+
+### Application Development
+
+* Lovable
+* FastAPI
+* Streamlit
+* JavaScript
+
+### Engineering & Deployment
+
+* Git
+* GitHub
+* Docker
+* CI/CD
+* API Integration
